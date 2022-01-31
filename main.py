@@ -1,5 +1,5 @@
-from pizda1 import print_hi
+from module_one import print_hi
 
 if __name__ == '__main__':
-    print_hi("HUI")
-    print("LOLEK")
+    print_hi("Module One")
+    print("Some text")
