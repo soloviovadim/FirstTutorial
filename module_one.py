@@ -4,15 +4,15 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
+def print_smth(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+    print(f'Something, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == "__main__":
-    print_hi("exec file")
+    print_smth("exec file")
 else:
-    print_hi('module')
+    print_smth('module')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
